@@ -1,2 +1,2 @@
 # ONW-location-code
-GUS-MCDA of ONW locations - spatial essay
+GIS-MCDA of ONW locations - spatial essay
